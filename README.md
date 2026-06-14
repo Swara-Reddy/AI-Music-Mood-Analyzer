@@ -6,6 +6,10 @@ MoodWave analyzes uploaded audio files, extracts advanced audio features, predic
 
 ---
 
+## 🚀 Live Demo
+
+https://ai-music-mood-analyzer-b5m63qpvy8gvthm8m3vst8.streamlit.app
+
 ## 🚀 Features
 
 ### 🎯 Mood Prediction
