@@ -10,6 +10,8 @@ MoodWave analyzes uploaded audio files, extracts advanced audio features, predic
 
 https://ai-music-mood-analyzer-b5m63qpvy8gvthm8m3vst8.streamlit.app
 
+![Home Page](screenshots/home.png)
+
 ## 🚀 Features
 
 ### 🎯 Mood Prediction
@@ -20,6 +22,8 @@ Predicts music into one of the following categories:
 - ❤️ Romantic
 - 🎭 Dramatic
 - 🔥 Aggressive
+
+![Mood Analyzer Page](screenshots/moodprediction.png)
 
 ---
 
@@ -61,9 +65,13 @@ Extracts advanced music features using Librosa:
 
 Visual representation of audio amplitude over time.
 
+![Audio Page](screenshots/waveform.png)
+
 #### 🎼 Spectrogram Analysis
 
 Frequency distribution visualization of the uploaded audio.
+
+![Spectrogram Analysis](screenshots/spectrogram.png)
 
 ---
 
@@ -74,6 +82,8 @@ Recommends similar songs using:
 - Feature-based similarity
 - Cosine Similarity Matching
 - Content-Based Filtering
+
+![Recommendation Page](screenshots/recommendation.png)
 
 ---
 
